@@ -7,7 +7,7 @@
  
  #%%
  
- import pandas as pd
+import pandas as pd
 # %%
 # Converta o seguinte dicionário para DataFrame
 
